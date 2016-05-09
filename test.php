@@ -2,4 +2,3 @@
 
 echo 'hello world!';
 
-?>
