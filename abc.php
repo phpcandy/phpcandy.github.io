@@ -2,4 +2,5 @@
 
 echo 'aaaa';
 //....
+echo 'ffff';
 ?>
