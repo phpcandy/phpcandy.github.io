@@ -8,5 +8,8 @@ class IndexController extends Yaf_Controller_Abstract {
        {
            $this->getView()->assign("content", "Test");
        }
+       public function abcAction()
+       {
+       }
 }
 ?>
