@@ -15,6 +15,7 @@ class IndexController extends Yaf_Controller_Abstract {
 
        public function abcAction()
        {
+           echo 'aaaa';
        }
 }
 ?>
